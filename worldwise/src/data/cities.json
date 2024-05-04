@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "d18e",
+      "cityName": "Hangzhou",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-04-17T15:06:35.355Z",
+      "notes": "Hello",
+      "position": {
+        "lat": "30.236550246431463",
+        "lng": "120.01672022657107"
+      }
+    },
+    {
+      "id": "9dd2",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-18T00:54:47.892Z",
+      "notes": "",
+      "position": {
+        "lat": "40.08109569973911",
+        "lng": "-0.020596650827935385"
+      }
+    },
+    {
+      "id": "3540",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-04-18T00:55:21.138Z",
+      "notes": "",
+      "position": {
+        "lat": "38.72513271776371",
+        "lng": "-9.14440117179008"
+      }
+    },
+    {
+      "id": "f9c9",
+      "cityName": "Hangzhou",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-04-18T14:23:30.623Z",
+      "notes": "",
+      "position": {
+        "lat": "30.217838520965802",
+        "lng": "120.03080355370679"
+      }
+    },
+    {
+      "id": "e7f4",
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-05-04T06:38:13.915Z",
+      "notes": "",
+      "position": {
+        "lat": "35.67626300279665",
+        "lng": "139.65408325195315"
+      }
+    }
+  ]
+}
