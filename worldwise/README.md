@@ -1,8 +1,24 @@
-# React + Vite
+## 🖥️ WorldWise
+![Screenshot](https://github.com/FrederickAurelio/React-Project/assets/121996224/2368cd98-e583-4421-a353-77cc07a724ce)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🤔 What Technology did I use
+- useState
+- useEffect
+- useReducer
+- React Router
+- Context Api
+- memo
+- useMemo, useCallback
+- Splitting Bundle Size
 
-Currently, two official plugins are available:
+### 🧑‍💻 Features
+- Page Navigation
+- Fake Login Authentication
+- Record keeping for your travel
+- Able to use current location
+- Show list of traveled country
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🏃‍♂️ How to run
+- npm install
+- npm run dev
+- npm run server
