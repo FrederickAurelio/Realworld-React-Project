@@ -5,8 +5,8 @@ https://www.udemy.com/course/the-ultimate-react-course/
 ## 🖥️ The Wild Oasis
 ![Screenshot](https://github.com/FrederickAurelio/React-Project/assets/121996224/556dffc2-6ca0-4f28-ac02-3da20056fe63)
 
-### 🥇 DEMO
-https://the-wild-oasis-two-murex.vercel.app/
+### 🥇 DEMO APP
+👉 https://the-wild-oasis-two-murex.vercel.app/
 
 ### 🏃‍♂️ How to run
 - npm install
