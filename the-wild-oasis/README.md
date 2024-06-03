@@ -1,8 +1,36 @@
-# React + Vite
+## 🖥️ The Wild Oasis
+![Screenshot](https://github.com/FrederickAurelio/React-Project/assets/121996224/556dffc2-6ca0-4f28-ac02-3da20056fe63)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🏃‍♂️ How to run
+- npm install
+- npm run dev
+- Email: test@test.com
+- Password: 00000000
 
-Currently, two official plugins are available:
+### 🤔 What Technology did I use
+- React Query (For All Remote State)
+- React Router (Page Navigation)
+- React Form (Form Handling)
+- Styled Components (CSS)
+- Context Api (Global State ex: DarkMode)
+- Supabase (Backend)
+- Compound Component Pattern / Render Pattern (ex: Modal, Table)
+- React Error Boundary (Catch Error when rendering)
+- Date-fns (Date manipulation)
+- Recharts (UI)
+- React Hot Tost (UI)
+- React Icons (UI)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🧑‍💻 Features
+- Sign Up
+- Login & Logout
+- Dashboards
+- Page Navigation
+- Dark Mode
+- Create, Read, Update, Delete (Cabins)
+- Pagination
+- Sort & Filter Data
+- Check-in & Check-out Bookings
+- Delete Bookings
+- Update Profiles
+- Update Hotel Settings
