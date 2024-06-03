@@ -28,6 +28,7 @@ https://www.udemy.com/course/the-ultimate-react-course/
 ### 🧑‍💻 Features
 - Sign Up
 - Login & Logout
+- User Authentication
 - Dashboards
 - Page Navigation
 - Dark Mode
